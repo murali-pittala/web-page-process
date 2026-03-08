@@ -1,0 +1,38 @@
+.logo-nav{
+    height: 150px;
+}
+.item-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.item-nav{
+    color: rgb(199, 61, 61);
+}
+.item-nav:hover{
+    color:rgb(37, 113, 55);
+}
+.text{
+    margin-left: auto;
+}
+.body{
+    height: 100vh;
+    background-image: url(http://pin.it/2fEXRxkAm);
+}
+.box-left{
+    color: white;
+   
+}
+.box-right{
+    color: white;
+}
+.img-logo{
+    height: 200px;
+}
+.para{
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
